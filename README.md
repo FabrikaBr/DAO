@@ -1,4 +1,5 @@
-# DAO
+# DAO FBKIO
+
 FBKIO Tokenomics:
 Token Distribution:
 ![image](https://github.com/FabrikaBr/DAO/assets/67053790/f19832b5-de16-4827-9b60-1b7558c4f67a)
@@ -9,3 +10,6 @@ FabrikaBr DAO is a decentralized organization that aims to promote collaboration
 32% for public sale: To raise funds and enable broader investor participation, 32% of the tokens will be made available through a public sale. This sale will be supported by an effective marketing strategy to reach potential buyers interested in the FabrikaBr ecosystem and its offered services.
 20% for development and operations: To ensure the continuous development and operation of the project, 20% of the tokens will be allocated to fund development teams, marketing efforts, technical support, and other operational needs of FabrikaBr. This resource allocation is crucial for driving the growth and sustainable evolution of the organization.
 The implementation of a vesting period for the founder tokens can be carried out through smart contracts. By defining the vesting terms, a gradual release schedule for the tokens can be established, incentivizing long-term and aligning the interests of the founders with those of the community.
+
+
+app.aragon.org/#/daos/polygon/0x8a7d01bcdacd10dd5cdaea16b5778dabe465c4fd
