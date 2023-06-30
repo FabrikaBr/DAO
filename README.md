@@ -2,7 +2,9 @@
 
 <p><b>FBKIO Tokenomics:</b></p>
 <p>Token Distribution:</p>
-<div>![tokenomics](https://github.com/FabrikaBr/DAO/assets/67053790/958489b4-ddde-48aa-9198-606bb92b536e)</div>
+<div>
+  ![tokenomics](https://github.com/FabrikaBr/DAO/assets/67053790/e9a64310-7778-4589-a16b-7fc0a9663bfd)
+</div>
 
 
 <p>FabrikaBr DAO is a decentralized organization that aims to promote collaboration and transparency within its ecosystem. The governance token, FBKIO, was created to boost the active participation members and enable the exchange of services on FabrikaBr platforms, including cultural producer Terça Tupã and other partner companies.</p>
