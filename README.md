@@ -2,7 +2,8 @@
 
 FBKIO Tokenomics:
 Token Distribution:
-![image](https://github.com/FabrikaBr/DAO/assets/67053790/f19832b5-de16-4827-9b60-1b7558c4f67a)
+![tokenomics](https://github.com/FabrikaBr/DAO/assets/67053790/43df7775-0123-4147-b03b-850681bdbc95)
+
 FabrikaBr DAO is a decentralized organization that aims to promote collaboration and transparency within its ecosystem. The governance token, FBKIO, was created to boost the active participation members and enable the exchange of services on FabrikaBr platforms, including cultural producer Terça Tupã and other partner companies.
 33% for founders: As a recognition for their initial work and project development, 33% of the tokens will be allocated to the FabrikaBr founders. These tokens will be gradually released over a vesting period, incentivizing long-term commitment and aligning the interests of the founders with those of the community.
 7.5% for healthcare, social security, cultural vouchers, sports vouchers: A percentage of the tokens will be reserved to provide benefits to employees, former employees, and token holders who have contributed to FabrikaBr. These benefits may include healthcare provisions, social security programs, cultural vouchers, and sports vouchers. The eligibility criteria for these benefits will be defined through community voting, ensuring transparency and equal participation.
