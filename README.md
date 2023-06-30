@@ -16,4 +16,4 @@
 <p>The implementation of a vesting period for the founder tokens can be carried out through smart contracts. By defining the vesting terms, a gradual release schedule for the tokens can be established, incentivizing long-term and aligning the interests of the founders with those of the community.</p>
 
 
-app.aragon.org/#/daos/polygon/0x8a7d01bcdacd10dd5cdaea16b5778dabe465c4fd
+
