@@ -1,6 +1,6 @@
 # DAO FBKIO
 
-FBKIO Tokenomics:
+<b>FBKIO Tokenomics:</b>
 Token Distribution:
 ![tokenomics](https://github.com/FabrikaBr/DAO/assets/67053790/43df7775-0123-4147-b03b-850681bdbc95)
 
