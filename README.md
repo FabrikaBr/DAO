@@ -3,7 +3,7 @@
 <p><b>FBKIO Tokenomics:</b></p>
 <p>Token Distribution:</p>
 <div>
-  ![tokenomics](https://github.com/FabrikaBr/DAO/assets/67053790/e9a64310-7778-4589-a16b-7fc0a9663bfd)
+  ![tokenomics](https://github.com/FabrikaBr/DAO/blob/main/tokenomics.png)
 </div>
 
 
